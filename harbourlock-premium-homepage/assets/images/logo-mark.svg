@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="HarbourLock logo mark">
-  <rect width="64" height="64" rx="18" fill="#d7ff43"/>
-  <path d="M20 26h24v24H20z" fill="#0a0c0b"/>
-  <path d="M25 26v-4.5C25 14.6 30.4 9 37 9s12 5.6 12 12.5V26h-7v-4.5c0-3.2-2.2-5.5-5-5.5s-5 2.3-5 5.5V26h-7z" fill="#0a0c0b"/>
-  <circle cx="32" cy="37" r="3.6" fill="#d7ff43"/>
-  <path d="M30.2 40h3.6v6h-3.6z" fill="#d7ff43"/>
-</svg>
